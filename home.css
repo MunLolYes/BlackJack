@@ -1,0 +1,49 @@
+body{
+    background-color:darkgreen;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-size: cover;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    background-image: url("https://i.ibb.co/K6KjvH2/Poker-table-felt-background-in-green-color.jpg")
+}
+
+h1{
+    color: goldenrod;
+}
+
+#readymsg{
+    font-style: italic;
+}
+
+#start-btn {
+    background-color: goldenrod;
+    width: 150px;
+    color: #016f32;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 3px;
+    margin-bottom: 5px;
+}
+
+#newCards-btn {
+    background-color: goldenrod;
+    width: 150px;
+    color: #016f32;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 3px;
+    margin-bottom: 5px;
+}
+
+#cards{
+    
+}
+
+#sum{
+    
+}
