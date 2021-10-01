@@ -46,6 +46,7 @@ function startGame() {
 }
 
 function renderGame() {
+    hasBlackJack = false;
     if (credits > 0) {
          cardsMsg.textContent = "Cards: "
         sumMsg.textContent = "Sum: " + sum
